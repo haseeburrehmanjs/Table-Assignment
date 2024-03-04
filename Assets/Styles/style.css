@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calculator {
+    height: 100vh;
+    background-image: url(https://i.pinimg.com/originals/a6/24/42/a624428f7f43dc10ce3fcf523089f325.gif);
+    background-size: cover;
+    background-repeat: repeat;
+    opacity: rgba(0,0,0,1);
+}
+
+.calculator {
+    background-image: url(https://i.pinimg.com/originals/4a/22/77/4a227792029a414129192151543d7740.gif);
+}
+
+.input-box input {
+    border-radius: 10px;
+    width: 400px;
+    height: 60px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 20px;
+    transition-duration: 1s;
+    border: 2px solid rgb(3, 117, 188);
+    transition: .5s ease;
+    border: .2rem solid #0ef;
+    outline: none;
+    background: transparent;
+    color: #0ef;
+}
+
+.input-box input:hover {
+    /* box-shadow: none; */
+    box-shadow: 0 0 20px #0ef;
+    border: 2px solid rgb(3, 117, 188);
+}
+
+.input-box h1 {
+
+}
+
+button {
+    background: transparent;
+    color: #0ef;
+    border: 2px solid rgb(3, 117, 188);
+}
+
+button:hover {
+    /* box-shadow: none; */
+    box-shadow: 0 0 20px #0ef;
+    transition: .5s ease;
+}
+
+
