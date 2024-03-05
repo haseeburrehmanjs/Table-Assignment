@@ -5,15 +5,9 @@
 }
 
 .calculator {
-    height: 100vh;
-    background-image: url(https://i.pinimg.com/originals/a6/24/42/a624428f7f43dc10ce3fcf523089f325.gif);
-    background-size: cover;
-    background-repeat: repeat;
-    opacity: rgba(0,0,0,1);
-}
-
-.calculator {
     background-image: url(https://i.pinimg.com/originals/4a/22/77/4a227792029a414129192151543d7740.gif);
+    background-size: cover;
+    height: 100vh;
 }
 
 .input-box input {
